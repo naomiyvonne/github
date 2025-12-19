@@ -94,7 +94,7 @@ Git, GitHub, LaTeX
   <a href="mailto:naomiyvonnedecena@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=9e9e9e&colorB=616161"/>
   </a>
-  <a href="https://instagram.com/naomiyvonne_">
+  <a href="[https://instagram.com/naomiyvonne_](https://www.instagram.com/naomiyvonne_?igsh=MTU1a3Q1cmFjcWUzNw==)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&colorA=9e9e9e&colorB=616161
     "/>
   </a>
